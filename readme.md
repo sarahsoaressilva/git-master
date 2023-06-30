@@ -22,3 +22,7 @@
 - Realizar um merge entre a branch Master e Marketing.
 - Verificar qual foi o tipo de estratégia de Merge.
 - Excluir a branch 'Marketing' (opcional).
+
+5 Desafio
+- Criar uma branch chamada 'Revisoes'.
+- Criar um arquivo de revisão chamado 'planejamento-financeiro-2023.txt

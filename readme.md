@@ -2,11 +2,13 @@
 
 1 Desafio
 - Criar um arquivo genérico na branch Master.
+- Add ao stage e commitar o arquivo.
 
 2 Desafio 
 - Criar uma branch para o departamento financeiro chamada 'Financeiro'.
 - Criar um arquivo de RH do departamento financeiro.
-    - Pode ser algo básico, como rh-financeiro.txt   
+    - Pode ser algo básico, como rh-financeiro.txt  
+- Add ao stage e commitar o arquivo. 
 
 3 Desafio
 - Realizar um merge da branch Master com a 'Financeiro'.
@@ -26,3 +28,4 @@
 5 Desafio
 - Criar uma branch chamada 'Revisoes'.
 - Criar um arquivo de revisão chamado 'planejamento-financeiro-2023.txt
+- Add ao stage e commitar o arquivo.

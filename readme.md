@@ -29,3 +29,5 @@
 - Criar uma branch chamada 'Revisoes'.
 - Criar um arquivo de revisão chamado 'planejamento-financeiro-2023.txt
 - Add ao stage e commitar o arquivo.
+- Usar comando do Git para tirar de stage.
+- Usar comando do Git para parar de rastrear o arquivo readme.md.

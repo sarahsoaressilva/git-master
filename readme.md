@@ -1,4 +1,4 @@
-*** Básico de Git ***
+**Básico de Git**
 
 1 Desafio - Prática básica.
 - Criar um arquivo genérico na branch Master.

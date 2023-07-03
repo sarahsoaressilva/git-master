@@ -31,3 +31,4 @@
 - Add ao stage e commitar o arquivo.
 - Usar comando do Git para tirar de stage.
 - Usar comando do Git para parar de rastrear o arquivo readme.md.
+
